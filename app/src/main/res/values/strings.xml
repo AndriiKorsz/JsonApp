@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JsonApp</string>
+    <string name="edit_names_hint">Enter  name of the Phone</string>
+    <string name="edit_price_hint">Enter the price</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnSave">Save</string>
+    <string name="btnOpen">Open</string>
+</resources>
